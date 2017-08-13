@@ -9229,8 +9229,8 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-positive {
-    border-color: #0064d2;
-    background-color: #0064d2;
+    border-color: #5c6bc0;
+    background-color: #5c6bc0;
     color: #fff; }
     .button.button-positive:hover {
       color: #fff;
@@ -10566,7 +10566,7 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #5c6bc0;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
